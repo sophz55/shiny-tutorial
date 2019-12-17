@@ -1,0 +1,10 @@
+---
+title: "Tutorial"
+author: "Sophia Zheng"
+date: "12/17/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
